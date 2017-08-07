@@ -2,7 +2,7 @@
 
 module.exports = {
 
-    'secret': 'ilovescotchyscotch',
+    'secret': 'ilovesusan',
     'database': 'mongodb://localhost:27017/stat-tracker'
 
 };
