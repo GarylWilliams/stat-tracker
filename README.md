@@ -15,3 +15,4 @@ DELETE /activities/{id} - Delete one activity I am tracking. This should remove 
 POST /activities/{id}/stats - Add tracked data for a day. The data sent with this should include the day tracked. You can also override the data for a day already recorded.
 
 DELETE /stats/{id} - Remove tracked data for a day.
+# stat-tracker
